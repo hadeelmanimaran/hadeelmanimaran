@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, I'm Hadeel Manimaran
+
+📚 I am a sophomore studying Computer Science and Math at the University of Wisconsin-Madison<br/>
+🔬 I currently work in the NeuroLAND lab at the Department of Communication Sciences and Disorders using Python and LLMs to create and input code automating survey responses with the end goal of creating a standaradized approach to assess aphasia recovery in stroke patients<br/>
+🔛 Working on sharpening my JavaScript, CSS and HTML knowledge and creating small gaming projects online (eg. 2048)<br/>
+
+
+
+
+
+
 
 <!--
 **hadeelmanimaran/hadeelmanimaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
