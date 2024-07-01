@@ -6,7 +6,7 @@
 ✍🏾 Writing for the [Wisconsin Engineering Magazine](https://wisconsinengineer.com/2024/05/01/tackling-the-issue-the-escalating-trend-of-acl-tears-in-womens-football/) combining my love for sports and my interests in the technological developments in the field 
 
 
-
+[![Hadeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadeelmanimaran)](https://github.com/hadeelmanimaran/github-readme-stats)
 
 
 
