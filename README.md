@@ -1,8 +1,8 @@
 ## 👋🏾 Hi, I'm Hadeel Manimaran!
 
-📚 I am a sophomore studying Computer Science and Math at the University of Wisconsin-Madison<br/>
+📚 I am a sophomore studying Data Science and Economics at the University of Wisconsin-Madison<br/>
 🔬 I currently work in the NeuroLAND lab at the Department of Communication Sciences and Disorders using Python and LLMs to create and input code automating survey responses with the end goal of creating a standaradized approach to assess aphasia recovery in stroke patients<br/>
-🔛 Working on sharpening my JavaScript, CSS and HTML knowledge and creating small gaming projects online (eg. 2048)<br/>
+🔛 Working on getting into the field of sports statistics and analyzing data<br/>
 ✍🏾 Writing for the [Wisconsin Engineering Magazine](https://wisconsinengineer.com/2024/05/01/tackling-the-issue-the-escalating-trend-of-acl-tears-in-womens-football/) combining my love for sports and my interests in the technological developments in the field 
 
 # 💻 Tech Stack:
