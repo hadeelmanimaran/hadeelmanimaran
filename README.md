@@ -51,15 +51,4 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 📌 Featured projects
-
-<!-- Swap in your real repos — these show up as pinned cards if you also pin them on your profile -->
-| Project | What it does | Stack |
-|---|---|---|
-| [Project name](https://github.com/hadeelmanimaran/REPO) | One line on the problem + result | Python, … |
-| [Project name](https://github.com/hadeelmanimaran/REPO) | One line on the problem + result | React, … |
-| [Project name](https://github.com/hadeelmanimaran/REPO) | One line on the problem + result | R, … |
-
----
-
-<p align="center"><i>Open to full-time data science, quant, and analytics roles starting summer 2027 — say hi!</i></p>
+<p align="center"><i>Open to full-time data science, quant, finance and analytics roles starting summer 2027 — say hi!</i></p>
