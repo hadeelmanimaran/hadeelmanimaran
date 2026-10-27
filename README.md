@@ -14,9 +14,9 @@
 
 ### What I'm working on?
 
-- **Full-stack engineering and research @ ICICLE AI** — building React dashboards that surface statistical metrics from Python APIs and PostgreSQL pipelines + creating new research structure 
-- **Data science research (UW Communication Sciences & Disorders)** — built an LLM pipeline (OpenAI + Azure OpenAI) that generated 1,000+ synthetic patient data points for aphasia research, plus a scoring algorithm ranking 4,000+ image/word pairs
-- **Teaching** — co-teaching a year-long research methods seminar for the Undergraduate Research Scholars program
+- **Full-stack engineering and research @ [*ICICLE AI](https://foodaccesssimulator.org/)** — building React dashboards that surface statistical metrics from Python APIs and PostgreSQL pipelines + creating new research structure 
+- **Data science research at[*NeuroLAND](https://neuroland.waisman.wisc.edu/)** — built an LLM pipeline (OpenAI + Azure OpenAI) that generated 1,000+ synthetic patient data points for aphasia research, plus a scoring algorithm ranking 4,000+ image/word pairs
+- **Teaching @[*Undergraduate Research Scholars](https://urs.ls.wisc.edu/)** — co-teaching a year-long research methods seminar for the Undergraduate Research Scholars program
 
 ### 📈 Beyond code
 
