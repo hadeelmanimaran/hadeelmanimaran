@@ -51,4 +51,4 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<p align="center"><i>Open to full-time data science, quant, finance and analytics roles starting summer 2027 — say hi!</i></p>
+<p align="center"><i>Open to full-time data science, quant, finance and analytics roles starting summer 2027</i></p>
